@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Ajay Kumar Godishala
 
-<!--
-**ajaygodishala/ajaygodishala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Analytics @ University of Strathclyde, Glasgow  
+💼 Data Analyst Intern (Past) | Passionate about turning data into insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I Do
+- 📊 Data Cleaning, Analysis & Visualization (Python, Pandas, Tableau, Power BI)  
+- 🧮 Statistical Modelling & Forecasting  
+- 🧠 Machine Learning (Scikit-learn, XGBoost)  
+- 🗄️ SQL & Database Queries  
+- 📈 Storytelling with Data
